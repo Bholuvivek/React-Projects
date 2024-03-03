@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: aqua;
+    width: 600px;
+    height: auto;
+    border: 2px solid #da1bca;
+    border-radius: 20px;
+}
+.top{
+    margin: 20px;
+    padding-top: 20px;
+}
+.top input{
+    width: 300px;
+    height: 35px;
+    background-color: #FFF;
+    border: 2px salmon;
+    border-radius: 15px;
+    color: #000000;
+}
+.btm{
+    justify-content: center;
+}
+.btm button{
+    width: 290px;
+    height: 35px;
+    margin: 0px;
+    margin-bottom: 20px;
+    background-color: rgb(85, 85, 240);
+    text-align: center;
+    border: 2px rgb(114, 250, 241);
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: rgb(10, 232, 73);
+    
+}
+.task-list li{
+    color: #000000;
+    font-size: 20px;
+}
+.list-div li{
+    list-style: none;
+    color:#000000;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.check{
+    float: left;
+}
+
+
+.edit{
+    float: right;
+    
+}
+.delete{
+    float:right;
+}
+.btm-re{
+    width: 200px;
+    height: 35px;
+    margin: 5px;
+}
+.remove-btn{
+    border-radius: 20px;
+    float: left;
+}
+.remove-btn:hover{
+    background-color: rgb(250, 16, 16);
+}
