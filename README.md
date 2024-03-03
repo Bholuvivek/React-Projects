@@ -18,8 +18,6 @@ This repository serves as a hub for multiple React projects, carefully curated t
 
 For additional support, questions, or updates regarding any of the projects in this repository, feel free to reach out to me through the following channels:
 
-[<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width="32" height="32">](https://www.youtube.com/channel/UClhKtACVRfHeYcDiAxngZpQ) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" height="32">](mailto:viveksinghpihuli0a@gmail.com)
-[<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="32" height="32">](https://github.com/Bholuvivek) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" height="32">](https://www.linkedin.com/in/vivekbholu)
-[<img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="32" height="32">](https://www.instagram.com/thevivekbholu) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" height="32">](https://twitter.com/Bholuvivek)
+[<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width="32" height="32">](https://www.youtube.com/channel/UClhKtACVRfHeYcDiAxngZpQ) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" height="32">](mailto:viveksinghpihuli0a@gmail.com) [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="32" height="32">](https://github.com/Bholuvivek) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" height="32">](https://www.linkedin.com/in/vivekbholu) [<img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="32" height="32">](https://www.instagram.com/thevivekbholu) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="32" height="32">](https://twitter.com/Bholuvivek)
 
 Feel free to connect with me and explore the various React projects available in this repository. Happy coding!
