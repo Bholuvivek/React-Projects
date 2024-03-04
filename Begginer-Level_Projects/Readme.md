@@ -84,10 +84,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For additional support, questions, or updates regarding this project, feel free to reach out to me through the following channels:
 
 - **Email:**  [viveksinghpihuli0a@gmail.com](mailto:viveksinghpihuli0a@gmail.com).
-- **GitHub:** [Your GitHub Profile](https://github.com/Bholuvivek)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vivekbholu)
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/thevivekbholu)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/Bholuvivek)
+- **GitHub:** [Bholuviek](https://github.com/Bholuvivek)
+- **LinkedIn:** [thevivekbholu](https://www.linkedin.com/in/vivekbholu)
+- **Instagram:** [thevivekbholu](https://www.instagram.com/thevivekbholu)
+- **Twitter:** [Bholuvivek](https://twitter.com/Bholuvivek)
 
 Feel free to connect with me and stay updated on the latest updates and announcements related to this React form project!
 
