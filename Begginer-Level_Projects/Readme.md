@@ -1,53 +1,13 @@
-# React Todo App
+# Beginner-Level React Projects
 
-Welcome to my React Todo application! This project allows you to manage your tasks with basic CRUD operations.
+## Project 01: Todo App
 
-## Project Overview
+A simple task management application built using React. It allows users to create, read, update, and delete tasks.
 
-This project is a simple todo application built using React. It enables users to perform CRUD operations on tasks, including creating, reading, updating, and deleting tasks.
+## Project 02: Form App
 
-## Features
+A basic form-building application built using React. It demonstrates how to create and handle forms in React.
 
-- **Create**: Add new tasks to your todo list.
-- **Read**: View the list of tasks in your todo list.
-- **Update**: Edit existing tasks to mark them as completed or update their content.
-- **Delete**: Remove tasks from your todo list.
-
-## Technologies Used
-
-- **React**: A JavaScript library for building user interfaces.
-- **HTML/CSS**: Markup and styling for the application components.
-- **JavaScript**: Logic for managing tasks and performing CRUD operations.
-
-## CRUD Operations
-
-### Create
-
-To add a new task to your todo list, follow these steps:
-
-1. Enter the task details in the input field.
-2. Press the "Add" or "Submit" button to add the task to the list.
-
-### Read
-
-To view the list of tasks in your todo list, simply open the application. You will see a list of tasks displayed on the screen.
-
-### Update
-
-To edit an existing task, follow these steps:
-
-1. Locate the task you want to edit in the list.
-2. Click on the task to open the edit mode.
-3. Modify the task details as needed.
-4. Press the "Save" or "Update" button to save the changes.
-
-### Delete
-
-To remove a task from your todo list, follow these steps:
-
-1. Locate the task you want to delete in the list.
-2. Click on the task to select it.
-3. Press the "Delete" or "Remove" button to delete the task from the list.
 
 ## Getting Started
 
