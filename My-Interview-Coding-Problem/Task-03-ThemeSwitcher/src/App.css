@@ -1,0 +1,20 @@
+#root {
+  max-width:1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+.bgColor-div{
+  width:1280px;
+ 
+  padding: 2rem;
+}
+.btn button{
+  margin-left: 10px;
+}
+.dark-btn{
+  border-radius: 15px;  
+}
+.lite-btn{
+  border-radius: 15px; 
+  margin-left: 20px; 
+}
