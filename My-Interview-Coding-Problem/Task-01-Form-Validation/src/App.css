@@ -1,0 +1,70 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.main{
+  width: 400px;
+  height: 400px;
+  background-color: aqua;
+  border-radius: 30px;
+}
+.main h2{
+  color: blue;
+}
+.main button{
+  margin-top: 40px;
+  width: 100px;
+}
+.main button:hover{
+  background-color: rgb(49, 204, 49);
+}
+.fields{
+  justify-content: space-between;
+  color: blue;
+  display: flex;
+}
+.fields label{
+  float: left;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.fields input{
+  margin-top: 40px;
+  margin-right: 30px;
+  float: right;
+  width: 190px;
+  height: 25px;
+  color: black;
+  background-color: #ffff;
+  
+}
+.fields input:focus{
+  border:3px rgb(255, 251, 3) ;
+}
+
+
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
