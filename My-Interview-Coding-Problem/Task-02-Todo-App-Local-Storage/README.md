@@ -18,8 +18,11 @@ To run this Todo app locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
-cd todo-app
+   npm create vite
+
+
+ ```bash
+   cd todo
 
 
 Certainly! Here's a README.md file for a Todo app:
